@@ -1,2 +1,0 @@
-# gituol
-gituol do btt
